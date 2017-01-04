@@ -1,6 +1,6 @@
 {
   "name": "liste",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Wrapper for common array tasks",
   "main": "index.js",
   "scripts": {
